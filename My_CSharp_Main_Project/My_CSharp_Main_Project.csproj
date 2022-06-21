@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>My_CSharp_Main_Project.ArrayOfCSharp.MethodOfArray</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Test5\" />
+    <Folder Include="Test4\" />
+  </ItemGroup>
+
+</Project>
